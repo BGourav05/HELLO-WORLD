@@ -29,4 +29,4 @@ gcc hello_world.c -o hello_world
 
 ## 👤 Author
 Your Name  
-[github.com/yourusername/hello-world-c](https://github.com/yourusername/hello-world-c)
+[github.com/yourusername/hello-world-c](https://[github.com/yourusername/hello-world-c](https://github.com/BGourav05/HELLO-WORLD))
